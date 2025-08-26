@@ -180,7 +180,3 @@ Base URL: `/api`
 4. Ensure `CLIENT_URL` and CORS settings allow the deployed client domain
 
 ---
-
-## License
-
-This project is provided for educational and portfolio purposes. Add a license of your choice if you plan to distribute.
